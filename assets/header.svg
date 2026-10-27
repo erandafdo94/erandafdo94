@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Eranda Fernando — Backend engineering</title>
+  <desc id="desc">C# and .NET. APIs, asynchronous messaging, and developer tools. An architectural drawing connects a .NET API to RabbitMQ and a consumer.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1400" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#11101C"/><stop offset="1" stop-color="#0B0D14"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1070 130) rotate(122) scale(420 560)" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6" stop-opacity=".16"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#A2A0BD" stroke-opacity=".045"/></pattern>
+    <linearGradient id="line" x1="850" y1="230" x2="1280" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#BBA5FF"/><stop offset="1" stop-color="#739DF1"/></linearGradient>
+  </defs>
+  <rect width="1400" height="480" rx="16" fill="url(#base)"/>
+  <rect width="1400" height="480" rx="16" fill="url(#glow)"/>
+  <rect width="1400" height="480" rx="16" fill="url(#grid)"/>
+  <path d="M66 62H94" stroke="#BBA5FF" stroke-width="3"/>
+  <text x="109" y="68" fill="#C9B8FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="3">BACKEND ENGINEERING</text>
+  <g fill="#F4F1FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="87" font-weight="700" letter-spacing="-4">
+    <text x="61" y="187">Eranda</text>
+    <text x="61" y="282">Fernando<tspan fill="#BBA5FF">.</tspan></text>
+  </g>
+  <text x="66" y="333" fill="#B8B7CA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23">C# &amp; .NET · APIs &amp; asynchronous messaging</text>
+  <path d="M66 380H1334" stroke="#343240" stroke-opacity=".8"/>
+  <text x="66" y="427" fill="#DEDBEB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" letter-spacing="1" xml:space="preserve">C#<tspan fill="#79718E">  /  </tspan>.NET<tspan fill="#79718E">  /  </tspan>RabbitMQ<tspan fill="#79718E">  /  </tspan>Docker</text>
+  <text x="1334" y="427" text-anchor="end" fill="#9B96AE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">@erandafdo94</text>
+  <g transform="translate(825 95)">
+    <text x="0" y="0" fill="#9B96AE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">REQUEST → MESSAGE → WORK</text>
+    <path d="M90 93H173V182H250M325 182H393V93H456" stroke="url(#line)" stroke-width="1.5"/>
+    <path d="M90 93H173V182H250M325 182H393V93H456" stroke="#BBA5FF" stroke-opacity=".13" stroke-width="9"/>
+    <circle cx="173" cy="93" r="3.5" fill="#C4AFFF"/>
+    <circle cx="393" cy="182" r="3.5" fill="#A6BFFF"/>
+    <rect x="0" y="59" width="131" height="69" rx="7" fill="#1B1928" stroke="#575069"/>
+    <rect x="213" y="149" width="147" height="69" rx="7" fill="#221D33" stroke="#9B7AD8"/>
+    <rect x="384" y="59" width="125" height="69" rx="7" fill="#171D2D" stroke="#52658B"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" text-anchor="middle" fill="#EAE5F8">
+      <text x="65.5" y="100">.NET API</text>
+      <text x="286.5" y="190">RabbitMQ</text>
+      <text x="446.5" y="100">Consumer</text>
+    </g>
+    <text x="0" y="152" fill="#9891AB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">produce</text>
+    <text x="509" y="152" text-anchor="end" fill="#9891AB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">process</text>
+  </g>
+</svg>
