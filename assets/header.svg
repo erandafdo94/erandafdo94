@@ -1,40 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Eranda Fernando — Backend engineering</title>
-  <desc id="desc">C# and .NET. APIs, asynchronous messaging, and developer tools. An architectural drawing connects a .NET API to RabbitMQ and a consumer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm Eranda.</title>
+  <desc id="description">Backend engineer, curious by default. A playful code editor describes a C# and .NET developer whose mode is build, test, repeat and whose curiosity is int.MaxValue.</desc>
   <defs>
-    <linearGradient id="base" x1="0" y1="0" x2="1400" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#11101C"/><stop offset="1" stop-color="#0B0D14"/></linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1070 130) rotate(122) scale(420 560)" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6" stop-opacity=".16"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#A2A0BD" stroke-opacity=".045"/></pattern>
-    <linearGradient id="line" x1="850" y1="230" x2="1280" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#BBA5FF"/><stop offset="1" stop-color="#739DF1"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#11121B"/><stop offset="1" stop-color="#161225"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1090 170) rotate(150) scale(600 400)" gradientUnits="userSpaceOnUse"><stop stop-color="#9875FF" stop-opacity=".17"/><stop offset="1" stop-color="#9875FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#B3AACD" fill-opacity=".11"/></pattern>
   </defs>
-  <rect width="1400" height="480" rx="16" fill="url(#base)"/>
-  <rect width="1400" height="480" rx="16" fill="url(#glow)"/>
-  <rect width="1400" height="480" rx="16" fill="url(#grid)"/>
-  <path d="M66 62H94" stroke="#BBA5FF" stroke-width="3"/>
-  <text x="109" y="68" fill="#C9B8FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="3">BACKEND ENGINEERING</text>
-  <g fill="#F4F1FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="87" font-weight="700" letter-spacing="-4">
-    <text x="61" y="187">Eranda</text>
-    <text x="61" y="282">Fernando<tspan fill="#BBA5FF">.</tspan></text>
+  <rect width="1400" height="470" rx="18" fill="url(#bg)"/>
+  <rect width="1400" height="470" rx="18" fill="url(#grid)"/>
+  <rect width="1400" height="470" rx="18" fill="url(#glow)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="64" y="64" fill="#BAA4FF" font-size="18">~ / erandafdo94</text>
+    <text x="64" y="340" fill="#B8B5C9" font-size="21">backend engineer · curious by default</text>
+    <text x="64" y="426" fill="#E0D9F3" font-size="18">C# / .NET / distributed systems</text>
+    <text x="1335" y="426" text-anchor="end" fill="#BCF09A" font-size="17">8+ years &amp; still exploring</text>
   </g>
-  <text x="66" y="333" fill="#B8B7CA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23">C# &amp; .NET · APIs &amp; asynchronous messaging</text>
-  <path d="M66 380H1334" stroke="#343240" stroke-opacity=".8"/>
-  <text x="66" y="427" fill="#DEDBEB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" letter-spacing="1" xml:space="preserve">C#<tspan fill="#79718E">  /  </tspan>.NET<tspan fill="#79718E">  /  </tspan>RabbitMQ<tspan fill="#79718E">  /  </tspan>Docker</text>
-  <text x="1334" y="427" text-anchor="end" fill="#9B96AE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">@erandafdo94</text>
-  <g transform="translate(825 95)">
-    <text x="0" y="0" fill="#9B96AE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">REQUEST → MESSAGE → WORK</text>
-    <path d="M90 93H173V182H250M325 182H393V93H456" stroke="url(#line)" stroke-width="1.5"/>
-    <path d="M90 93H173V182H250M325 182H393V93H456" stroke="#BBA5FF" stroke-opacity=".13" stroke-width="9"/>
-    <circle cx="173" cy="93" r="3.5" fill="#C4AFFF"/>
-    <circle cx="393" cy="182" r="3.5" fill="#A6BFFF"/>
-    <rect x="0" y="59" width="131" height="69" rx="7" fill="#1B1928" stroke="#575069"/>
-    <rect x="213" y="149" width="147" height="69" rx="7" fill="#221D33" stroke="#9B7AD8"/>
-    <rect x="384" y="59" width="125" height="69" rx="7" fill="#171D2D" stroke="#52658B"/>
-    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" text-anchor="middle" fill="#EAE5F8">
-      <text x="65.5" y="100">.NET API</text>
-      <text x="286.5" y="190">RabbitMQ</text>
-      <text x="446.5" y="100">Consumer</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="98" letter-spacing="-5">
+    <text x="58" y="182" fill="#F2EDFF">hey, i'm</text>
+    <text x="58" y="284" fill="#BCA4FF">eranda<tspan fill="#C3EF9F">.</tspan></text>
+  </g>
+  <path d="M64 383H1335" stroke="#393043"/>
+  <g transform="translate(770 70)">
+    <rect x="0" y="0" width="565" height="274" rx="12" fill="#191821" stroke="#52445F"/>
+    <path d="M0 44H565" stroke="#393141"/>
+    <circle cx="24" cy="22" r="5" fill="#D88C9A"/>
+    <circle cx="43" cy="22" r="5" fill="#D7BE83"/>
+    <circle cx="62" cy="22" r="5" fill="#ACD68F"/>
+    <text x="283" y="28" text-anchor="middle" fill="#B6ACC7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">eranda.cs</text>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" xml:space="preserve">
+      <g fill="#756E86" text-anchor="end" font-size="15"><text x="32" y="82">1</text><text x="32" y="110">2</text><text x="32" y="138">3</text><text x="32" y="166">4</text><text x="32" y="194">5</text><text x="32" y="222">6</text><text x="32" y="250">7</text></g>
+      <text x="52" y="82" fill="#E8E0F7"><tspan fill="#BCA4FF">var</tspan> eranda = <tspan fill="#BCA4FF">new</tspan></text>
+      <text x="52" y="110" fill="#E8E0F7">{</text>
+      <text x="52" y="138" fill="#E8E0F7">  Stack = <tspan fill="#C3EF9F">"C# / .NET"</tspan>,</text>
+      <text x="52" y="166" fill="#E8E0F7">  Mode = <tspan fill="#C3EF9F">"build → test → repeat"</tspan>,</text>
+      <text x="52" y="194" fill="#E8E0F7">  Curiosity = <tspan fill="#BCA4FF">int</tspan>.MaxValue</text>
+      <text x="52" y="222" fill="#E8E0F7">};</text>
+      <text x="52" y="250" fill="#9686AB">// naming things remains difficult.</text>
     </g>
-    <text x="0" y="152" fill="#9891AB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">produce</text>
-    <text x="509" y="152" text-anchor="end" fill="#9891AB" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">process</text>
   </g>
 </svg>
