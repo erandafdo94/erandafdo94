@@ -1,28 +1,32 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Eranda Fernando — Backend engineering. C#, .NET, RabbitMQ, Docker." />
+  <img src="./assets/header.svg" width="100%" alt="Hey, I'm Eranda. Backend engineer, curious by default. C#, .NET and distributed systems." />
 </p>
 
 <br />
 
-C# and .NET are my home base. I build APIs, work with asynchronous messaging, and make tools that solve everyday problems.
+Usually somewhere between a .NET service, a message queue, and a test that *definitely passed locally*.
 
-### The backend workbench
+I've spent **8+ years** building software across finance, healthcare, and public-sector systems. Along the way: leading teams, untangling legacy code, and moving systems between clouds without taking them offline.
 
-**APIs & services** &nbsp; / &nbsp; C# · .NET  
-**Asynchronous messaging** &nbsp; / &nbsp; RabbitMQ · producer/consumer workflows  
-**Development workflow** &nbsp; / &nbsp; Docker · Git
+### The usual suspects
 
-<br />
-
-### Beyond the backend
-
-Some problems are small enough to build the solution yourself.
-
-| Project | What it does |
+| | |
 | :--- | :--- |
-| [**Focus Shield**](https://github.com/erandafdo94/focus-shield) | A native macOS app that blocks distracting apps and websites during timed focus sessions. |
-| [**DelayGate**](https://github.com/erandafdo94/delaygate) | A Chrome extension that adds a pause before opening distracting websites. |
+| **Build** | C# · .NET · ASP.NET Core · EF Core |
+| **Connect** | PostgreSQL · SQL Server · Redis · RabbitMQ · IBM MQ |
+| **Ship** | AWS · Azure · Docker · Terraform · CI/CD |
+| **Trust, but test** | xUnit · Testcontainers · OpenTelemetry |
+
+### Things I keep coming back to
+
+- Distributed systems, and getting all the moving parts to agree.
+- Clean architecture that makes the next change easier.
+- Tests that find the problem before someone else does.
+
+### Current rabbit hole
+
+**Spec-driven development, coding agents, and MCP tooling.** Figuring out where AI helps, where it gets creative, and how to keep the whole thing testable.
 
 <br />
 
-<sub>Backend code and experiments are mostly in private repositories.</sub>
+<sub>Build something. Break something. Understand it better. Repeat.</sub>
